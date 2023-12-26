@@ -39,7 +39,7 @@ function Homepage() {
         </div>
       </div>
       <div className='flex text-2xl font-normal justify-center text-center px-64 py-10'>Gen-Z It is a generation that is highly potential to significantly contribute to economic growth; <br></br> therefore, we refer to it as Z-Sharp Era</div>
-      <div className='flex text-2xl font-normal justify-center text-center px-64 py-10'>2021 Asia Pacific Young Entrepreneurs Survey found that 72% of Generation Z and Millennials in the Asia Pacific aspire to have their own business.</div>
+      <div className='flex text-2xl font-normal justify-center text-center px-64 py-10'>2021 Asia Pacific Young Entrepreneurs Survey found that <b>72% of Generation Z</b> and Millennials in the Asia Pacific aspire to have their own business.</div>
       <img src='/images/homepage/graph.svg' className='h-96 rounded-tl-[30px] mx-auto mb-10' />
       <div className='relative h-[50vh] w-full overflow-hidden'>
         {/* Shape setengah lingkaran (sebelah kanan) */}
